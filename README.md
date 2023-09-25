@@ -16,6 +16,7 @@ Write Mobile automation for testing this application.
 **Expectations:**
 - Some MUST have features in your automation solution -
 - Test Case documentation (Including +ve and -ve scenarios)
+- At least 5 most important features from above to be automated(decide which ones are priority features) 
 - Not just automation code, proper automation framework
 - Automation report
 - Grouping of tests
@@ -38,6 +39,7 @@ Write Mobile automation for testing this application.
 - Pick the tech stack for which you got training
 - Please create your own branch and commit changes to remote feature branch
 - Raise PR once done (Follow PR good practices)
+- Extra points can be scored by automate the lesser tried features
 
 
 **Binaries**-
