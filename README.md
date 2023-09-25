@@ -36,6 +36,8 @@ Write Mobile automation for testing this application.
 **Guidelines:**
 - Time - 4 days
 - Pick the tech stack for which you got training
+- Please create your own branch and commit changes to remote feature branch
+- Raise PR once done (Follow PR good practices)
 
 
 **Binaries**-
