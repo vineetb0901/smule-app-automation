@@ -1,0 +1,5 @@
+node_modules
+app/
+allure-results/
+credentials.json
+allure-report/data/attachments/
